@@ -1,0 +1,11 @@
+/*This is an external style sheet*/
+body{background-color: rgba(78, 24, 224, 0.932);
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{color: rgba(80, 241, 107, 0.705);}
+
+p{color:rgba(0, 255, 157, 0.884);}
+
+

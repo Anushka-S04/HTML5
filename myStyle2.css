@@ -1,0 +1,18 @@
+
+body{background-color: aquamarine;}
+
+H2 {color:limegreen;
+    font-family:"Arial";
+    font-size:normal;
+}
+
+#warning {color:red;
+    font-weight:bold;
+    font-style:italic;
+}
+
+/*
+html selector - body,h2
+id selector - #warning
+style rule - whole para of style description
+selector:declaration - eg. color:red*/
